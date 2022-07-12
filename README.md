@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoeSpenger
+- 👋 Hi, I’m @JoeSprenger
 - 👀 I’m interested in open data at EP
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python and SPARQL.
 - 💞️ I’m looking to collaborate on EP ontologies
 - 📫 How to reach me ...
 
